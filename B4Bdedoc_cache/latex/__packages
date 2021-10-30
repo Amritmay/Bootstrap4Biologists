@@ -1,0 +1,15 @@
+base
+knitr
+dplyr
+lattice
+ggplot2
+ggstance
+ggformula
+mosaicData
+Matrix
+mosaic
+Lock5Data
+gridExtra
+here
+nlme
+abd
