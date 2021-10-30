@@ -1,2 +1,5 @@
 # Bootstrap4Biologists
 contains all files (code, data, manuscript text written using RMarkdown) of Bootstrapping for Biologists, Fieberg, J. D. H. Johnson, and K. Vitense. Resampling-based methods for biologists. PeerJ
+
+## Abstract
+Ecological data often violate common assumptions of traditional parametric statistics (e.g., that residuals are Normally distributed, have constant variance, and cases are independent). Modern statistical methods are well equipped to handle these complications, but they can be challenging for non-statisticians to understand and implement. Rather than default to increasingly complex statistical methods, resampling-based methods can sometimes provide an alternative method for performing statistical inference, while also facilitating a deeper understanding of foundational concepts in frequentist statistics (e.g., sampling distributions, confidence intervals, p-values). Using simple examples and case studies, we demonstrate how resampling-based methods can help elucidate core statistical concepts and provide alternative methods for tackling challenging problems across a broad range of ecological applications
